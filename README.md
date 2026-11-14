@@ -67,3 +67,11 @@ py -3.10 -m venv .venv
 - 使用预训练模型，本项目不在课程数据上训练神经网络，也不根据文件名补全识别答案。
 
 原创代码采用 [MIT License](LICENSE)。模型和第三方依赖继续适用各自的许可证；详见 [第三方说明](THIRD_PARTY_NOTICES.md) 与 [许可目录](第三方许可)。
+
+## 支持项目
+
+如果「门牌识别工作台」帮到了你，欢迎通过支付宝或微信扫码打赏。感谢你的支持！
+
+| 支付宝 | 微信 |
+| :---: | :---: |
+| <img src="assets/sponsors/alipay.jpg" alt="支付宝收款码" width="220"> | <img src="assets/sponsors/wechat.jpg" alt="微信收款码" width="220"> |
