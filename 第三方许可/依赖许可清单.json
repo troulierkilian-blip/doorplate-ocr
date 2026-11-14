@@ -1,0 +1,131 @@
+[
+  {
+    "package": "rapidocr-onnxruntime",
+    "version": "1.4.4",
+    "license_metadata": "Apache-2.0",
+    "copied_files": []
+  },
+  {
+    "package": "onnxruntime",
+    "version": "1.20.1",
+    "license_metadata": "MIT License",
+    "copied_files": [
+      "onnxruntime\\onnxruntime\\LICENSE",
+      "onnxruntime\\onnxruntime\\ThirdPartyNotices.txt"
+    ]
+  },
+  {
+    "package": "opencv-python",
+    "version": "4.10.0.84",
+    "license_metadata": "Apache 2.0",
+    "copied_files": [
+      "opencv-python\\cv2\\LICENSE-3RD-PARTY.txt",
+      "opencv-python\\cv2\\LICENSE.txt",
+      "opencv-python\\opencv_python-4.10.0.84.dist-info\\LICENSE-3RD-PARTY.txt",
+      "opencv-python\\opencv_python-4.10.0.84.dist-info\\LICENSE.txt"
+    ]
+  },
+  {
+    "package": "numpy",
+    "version": "1.26.4",
+    "license_metadata": "Copyright (c) 2005-2023, NumPy Developers.",
+    "copied_files": [
+      "numpy\\numpy-1.26.4.dist-info\\LICENSE.txt",
+      "numpy\\numpy\\core\\include\\numpy\\random\\LICENSE.txt",
+      "numpy\\numpy\\ma\\LICENSE",
+      "numpy\\numpy\\random\\LICENSE.md"
+    ]
+  },
+  {
+    "package": "Pillow",
+    "version": "11.1.0",
+    "license_metadata": "MIT-CMU",
+    "copied_files": [
+      "Pillow\\pillow-11.1.0.dist-info\\LICENSE"
+    ]
+  },
+  {
+    "package": "tkinterdnd2",
+    "version": "0.4.3",
+    "license_metadata": "",
+    "copied_files": [
+      "tkinterdnd2\\tkinterdnd2-0.4.3.dist-info\\LICENSE"
+    ]
+  },
+  {
+    "package": "shapely",
+    "version": "2.1.2",
+    "license_metadata": "BSD 3-Clause",
+    "copied_files": [
+      "shapely\\shapely-2.1.2.dist-info\\licenses\\LICENSE.txt",
+      "shapely\\shapely-2.1.2.dist-info\\licenses\\LICENSE_GEOS",
+      "shapely\\shapely-2.1.2.dist-info\\licenses\\LICENSE_win32"
+    ]
+  },
+  {
+    "package": "pyclipper",
+    "version": "1.4.0",
+    "license_metadata": "MIT",
+    "copied_files": [
+      "pyclipper\\pyclipper-1.4.0.dist-info\\licenses\\LICENSE"
+    ]
+  },
+  {
+    "package": "PyYAML",
+    "version": "6.0.3",
+    "license_metadata": "MIT",
+    "copied_files": [
+      "PyYAML\\pyyaml-6.0.3.dist-info\\licenses\\LICENSE"
+    ]
+  },
+  {
+    "package": "coloredlogs",
+    "version": "15.0.1",
+    "license_metadata": "MIT",
+    "copied_files": [
+      "coloredlogs\\coloredlogs-15.0.1.dist-info\\LICENSE.txt"
+    ]
+  },
+  {
+    "package": "humanfriendly",
+    "version": "10.0",
+    "license_metadata": "MIT",
+    "copied_files": [
+      "humanfriendly\\humanfriendly-10.0.dist-info\\LICENSE.txt"
+    ]
+  },
+  {
+    "package": "flatbuffers",
+    "version": "25.12.19",
+    "license_metadata": "Apache 2.0",
+    "copied_files": []
+  },
+  {
+    "package": "protobuf",
+    "version": "3.19.6",
+    "license_metadata": "3-Clause BSD License",
+    "copied_files": []
+  },
+  {
+    "package": "packaging",
+    "version": "26.0",
+    "license_metadata": "",
+    "copied_files": [
+      "packaging\\packaging-26.0.dist-info\\licenses\\LICENSE"
+    ]
+  },
+  {
+    "package": "pyinstaller",
+    "version": "6.13.0",
+    "license_metadata": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)",
+    "copied_files": []
+  },
+  {
+    "package": "pyinstaller-hooks-contrib",
+    "version": "2026.8",
+    "license_metadata": "",
+    "copied_files": [
+      "pyinstaller-hooks-contrib\\pyinstaller_hooks_contrib-2026.8.dist-info\\licenses\\LICENSE"
+    ]
+  }
+]
